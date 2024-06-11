@@ -1,4 +1,3 @@
-# CS-230
 CS-230-R1818 Operating Platforms 23EW1
 # Project Overview:
 The Gaming Room, a client seeking to expand their popular Android game "Draw It or Lose It" into a web-based application, engaged Creative Technology Solutions (CTS) to design a comprehensive software solution. The project aimed for cross-platform compatibility, minimal network latency, and scalability to create a seamless and enjoyable gaming experience for users across various devices.
